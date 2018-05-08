@@ -13,9 +13,9 @@ Mars Collection is easly installation, you need composer before to run installat
 - [Introduction](#introduction)
 - [How to use](#how-to-use)
 - [Available Collections](#available-collections)
-    - [HandlingCollection](#handling)
-    - [TransformationCollection](#transformation)
-    - [SearchCollection](#search)
+    - [HandlingCollection](https://github.com/marsphp/collection/blob/master/handling-collection.md)
+    - [TransformCollection](https://github.com/marsphp/collection/blob/master/transform-collection)
+    - [SearchCollection](https://github.com/marsphp/collection/blob/master/search-collection)
 
 ### Introduction
 
@@ -31,14 +31,14 @@ call `Kernel` class into your class `use Mars\Collection\Kernel`
 
 ## Changelog
 
-[changelog]() contains all pre-release and release notes.
+[changelog](https://github.com/marsphp/collection/blob/master/CHANGELOG.md) contains all pre-release and release notes.
 
 ## Contributing
 Mars collection is an open source, community-driven project.
-If you'd like to contribute, please read the following [contributing]() guide.
+If you'd like to contribute, please read the following [contributing](https://github.com/marsphp/collection/blob/master/CONTRIBUTING.md) guide.
 
 ## Contributors
-Check the all [contributors]() list
+Check the all [contributors](https://github.com/marsphp/collection/blob/master/CONTRIBUTORS.md) list
 
 ## Authors
 [Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](httsp://github.com/hassanedao)
