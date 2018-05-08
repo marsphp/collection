@@ -31,17 +31,17 @@ call `Kernel` class into your class `use Mars\Collection\Kernel`
 
 ## Changelog
 
-[changelog](https://github.com/marsphp/collection/blob/master/CHANGELOG.md) contains all pre-release and release notes.
+[changelog](CHANGELOG.md) contains all pre-release and release notes.
 
 ## Contributing
 Mars collection is an open source, community-driven project.
-If you'd like to contribute, please read the following [contributing](https://github.com/marsphp/collection/blob/master/CONTRIBUTING.md) guide.
+If you'd like to contribute, please read the following [contributing](CONTRIBUTING.md) guide.
 
 ## Contributors
-Check the all [contributors](https://github.com/marsphp/collection/blob/master/CONTRIBUTORS.md) list
+Check the all [contributors](CONTRIBUTORS.md) list
 
 ## Authors
-[Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](httsp://github.com/hassanedao)
+[Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](https://github.com/hassanedao)
 
 ## Security Vulnerabilities
 
