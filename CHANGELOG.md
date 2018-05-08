@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [0.1](https://github.com/marsphp/collection/releases/tag/0.1) - 2018-05-04
+## [0.1] - 2018-05-04
 
 ### Added
 
