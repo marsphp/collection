@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/houssenedao/collection.svg?branch=master)](https://travis-ci.org/houssenedao/collection)
+
 # Mars Collection
 Mars framework collection package
 

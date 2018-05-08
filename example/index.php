@@ -11,4 +11,6 @@ $a = $a->fetchAll(PDO::FETCH_OBJ);
 
 $articles = new Kernel($a);
 
-var_dump($articles->count());
+foreach ($articles as $article) {
+    echo $article->title, '<br>';
+}
