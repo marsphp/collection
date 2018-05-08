@@ -5,7 +5,8 @@ namespace Mars\Collection\Collections;
 trait HandlingCollection
 {
     /**
-     * return all items
+     * All items
+     * return @all items
      */
     public function all()
     {

@@ -3,7 +3,42 @@ Mars framework collection package
 
 ## Install
 
+    $ composer install mars/collection
+
 ## Documentation
+
+- [Introduction](#introduction)
+- [How to use](#how-to-use)
+- [Available Methods](#available-methods)
+    - [Handling](#handling)
+    - [Transformation](#transformation)
+    - [Search](#search)
+
+### Introduction
+
+### How To use
+
+### Available Methods
+
+#### Handling
+- [all](#all)
+- [count](#count)
+- [isEmpty](#isempty)
+
+##### All
+##### Count
+##### isEmpty
+
+#### Transformation
+
+#### Search
+- [first](#first)
+- [find](#find)
+- [last](#last)
+
+##### First
+##### Find
+##### Last
 
 ## Changelog
 
