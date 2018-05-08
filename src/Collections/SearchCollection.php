@@ -34,4 +34,18 @@ trait SearchCollection
     {
         return empty($this->items);
     }
+
+    /**
+     * Each items
+     * @param callable $callback
+     * @return $this
+     */
+    public function each(callable $callback)
+    {
+        foreach ($this->items as $key => $item) {
+            $callback($item, $key);
+        }
+
+        return $this;
+    }
 }
