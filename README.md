@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/houssenedao/collection.svg?branch=master)](https://travis-ci.org/houssenedao/collection)
+[![Build Status](https://travis-ci.org/marsphp/collection.svg?branch=master)](https://travis-ci.org/marsphp/collection) [![Latest Stable Version](https://poser.pugx.org/mars/collection/v/stable)](https://packagist.org/packages/mars/collection) [![Total Downloads](https://poser.pugx.org/mars/collection/downloads)](https://packagist.org/packages/mars/collection) [![License](https://poser.pugx.org/mars/collection/license)](https://packagist.org/packages/mars/collection)
 
 # Mars Collection
 Mars framework collection package

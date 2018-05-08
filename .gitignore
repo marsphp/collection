@@ -13,4 +13,5 @@ gen
 .tmp
 /vendor/
 /phpunit.xml
-/example/
+example
+/composer.lock
