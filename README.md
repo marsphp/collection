@@ -13,24 +13,22 @@ Mars Collection is easly installation, you need composer before to run installat
 - [Introduction](#introduction)
 - [How to use](#how-to-use)
 - [Available Collections](#available-collections)
-    - [HandlingCollection](https://github.com/marsphp/collection/blob/master/handling-collection.md)
-    - [TransformCollection](https://github.com/marsphp/collection/blob/master/transform-collection)
-    - [SearchCollection](https://github.com/marsphp/collection/blob/master/search-collection)
+    - [HandlingCollection](handling-collection.md)
+    - [TransformCollection](transform-collection.md)
+    - [SearchCollection](search-collection.md)
 
 ### Introduction
+`Mars collection` is `PHP` package based to `PSR-4` to manage your collection.
 
 ### How To use
-
 call `Kernel` class into your class `use Mars\Collection\Kernel`
 
 ### Available Collections
-
 - `HandlerCollection`
 - `TransformCollection`
 - `SearchCOllection`
 
 ## Changelog
-
 [changelog](CHANGELOG.md) contains all pre-release and release notes.
 
 ## Contributing
@@ -44,9 +42,7 @@ Check the all [contributors](CONTRIBUTORS.md) list
 [Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](https://github.com/hassanedao)
 
 ## Security Vulnerabilities
-
 If you discover a security vulnerability within Mars Schedule, please send an e-mail to Houssene Dao via [dao.houssene@themartiangeeks.com](mailto:dao.houssene@themartiangeeks.com) or Hassane Dao via [dao.hassane@themartiangeeks.com](mailto:dao.hassane@themartiangeeks.com). All security vulnerabilities will be promptly addressed.
 
 ## License
-
 Mars Schedule is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
