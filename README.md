@@ -3,31 +3,15 @@
 # Mars Collection
 Mars framework collection package
 
-## Install
-Mars Collection is easly installation, you need composer before to run installation.
-
-    $ composer install mars/collection
-
 ## Documentation
-
-- [Introduction](#introduction)
-- [How to use](#how-to-use)
-- [Available Collections](#available-collections)
+- [Introduction](INTRO.md)
+- [Installation](INSTALL.md)
+- [How to use](how-to-use.md)
+- [Available Collections](available-collections.md)
     - [HandlingCollection](handling-collection.md)
     - [TransformCollection](transform-collection.md)
     - [SearchCollection](search-collection.md)
 - [Example]()
-
-### Introduction
-`Mars collection` is `PHP` package based to `PSR-4` to manage your collection.
-
-### How To use
-call `Kernel` class into your class `use Mars\Collection\Kernel`
-
-### Available Collections
-- `HandlerCollection`
-- `TransformCollection`
-- `SearchCOllection`
 
 ## Changelog
 [changelog](CHANGELOG.md) contains all pre-release and release notes.
