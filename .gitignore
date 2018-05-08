@@ -12,3 +12,5 @@ gen
 .vscode
 .tmp
 /vendor/
+/phpunit.xml
+/example/
