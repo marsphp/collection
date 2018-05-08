@@ -4,6 +4,7 @@
 Mars framework collection package
 
 ## Install
+Mars Collection is easly installation, you need composer before to run installation.
 
     $ composer install mars/collection
 
@@ -11,45 +12,36 @@ Mars framework collection package
 
 - [Introduction](#introduction)
 - [How to use](#how-to-use)
-- [Available Methods](#available-methods)
-    - [Handling](#handling)
-    - [Transformation](#transformation)
-    - [Search](#search)
+- [Available Collections](#available-collections)
+    - [HandlingCollection](#handling)
+    - [TransformationCollection](#transformation)
+    - [SearchCollection](#search)
 
 ### Introduction
 
 ### How To use
 
-### Available Methods
+call `Kernel` class into your class `use Mars\Collection\Kernel`
 
-#### Handling
-- [all](#all)
-- [count](#count)
-- [isEmpty](#isempty)
+### Available Collections
 
-##### All
-##### Count
-##### isEmpty
-
-#### Transformation
-
-#### Search
-- [first](#first)
-- [find](#find)
-- [last](#last)
-
-##### First
-##### Find
-##### Last
+- `HandlerCollection`
+- `TransformCollection`
+- `SearchCOllection`
 
 ## Changelog
 
+[changelog]() contains all pre-release and release notes.
+
 ## Contributing
+Mars collection is an open source, community-driven project.
+If you'd like to contribute, please read the following [contributing]() guide.
+
+## Contributors
+Check the all [contributors]() list
 
 ## Authors
-
-- [Houssene Dao](https://github.com/houssenedao)
-- [Hassane Dao](httsp://github.com/hassanedao)
+[Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](httsp://github.com/hassanedao)
 
 ## Security Vulnerabilities
 

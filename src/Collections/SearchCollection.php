@@ -26,16 +26,6 @@ trait SearchCollection
     }
 
     /**
-     * Check if items is empty or not
-     * @param null $default
-     * @return bool
-     */
-    public function find($default = null)
-    {
-        return empty($this->items);
-    }
-
-    /**
      * Each items
      * @param callable $callback
      * @return $this
