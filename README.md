@@ -4,6 +4,7 @@
 Mars framework collection package
 
 ## Install
+Mars Collection is easly installation, you need composer before to run installation.
 
     $ composer install mars/collection
 
@@ -11,45 +12,36 @@ Mars framework collection package
 
 - [Introduction](#introduction)
 - [How to use](#how-to-use)
-- [Available Methods](#available-methods)
-    - [Handling](#handling)
-    - [Transformation](#transformation)
-    - [Search](#search)
+- [Available Collections](#available-collections)
+    - [HandlingCollection](https://github.com/marsphp/collection/blob/master/handling-collection.md)
+    - [TransformCollection](https://github.com/marsphp/collection/blob/master/transform-collection)
+    - [SearchCollection](https://github.com/marsphp/collection/blob/master/search-collection)
 
 ### Introduction
 
 ### How To use
 
-### Available Methods
+call `Kernel` class into your class `use Mars\Collection\Kernel`
 
-#### Handling
-- [all](#all)
-- [count](#count)
-- [isEmpty](#isempty)
+### Available Collections
 
-##### All
-##### Count
-##### isEmpty
-
-#### Transformation
-
-#### Search
-- [first](#first)
-- [find](#find)
-- [last](#last)
-
-##### First
-##### Find
-##### Last
+- `HandlerCollection`
+- `TransformCollection`
+- `SearchCOllection`
 
 ## Changelog
 
+[changelog](https://github.com/marsphp/collection/blob/master/CHANGELOG.md) contains all pre-release and release notes.
+
 ## Contributing
+Mars collection is an open source, community-driven project.
+If you'd like to contribute, please read the following [contributing](https://github.com/marsphp/collection/blob/master/CONTRIBUTING.md) guide.
+
+## Contributors
+Check the all [contributors](https://github.com/marsphp/collection/blob/master/CONTRIBUTORS.md) list
 
 ## Authors
-
-- [Houssene Dao](https://github.com/houssenedao)
-- [Hassane Dao](httsp://github.com/hassanedao)
+[Houssene Dao](https://github.com/houssenedao) and [Hassane Dao](httsp://github.com/hassanedao)
 
 ## Security Vulnerabilities
 
