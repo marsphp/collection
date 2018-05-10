@@ -5,10 +5,6 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "The Martian Geeks",
-            "email": "contact@themartiangeeks.com"
-        },
-        {
             "name": "Houssene Dao",
             "email": "dao.houssene@themartiangeeks.com"
         },
@@ -22,7 +18,9 @@
         "source": "https://github.com/marsphp/collection"
     },
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.0"
+    },
+    "require-dev": {
         "phpunit/phpunit": "^7.1"
     },
     "autoload": {
@@ -34,5 +32,10 @@
         "psr-4": {
             "Tests\\": "tests/"
         }
-    }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
